@@ -1,0 +1,310 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F8356BA9E2587C65402',
+    participant: undefined
+  },
+  messageTimestamp: 1733843051,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'sip', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'sip',
+  from: '5493814064164'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F9690D6C2DD52E02082',
+    participant: undefined
+  },
+  messageTimestamp: 1733843080,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5493814064164'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d90f80e-039b-4fdc-8f16-79167be2f224',
+  keyword: 'key_1a9b6f36-619f-45cf-b834-819197d82ef9',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f9a63323dbf9ad13faf6964d11eb1cb2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_53ff0668-0c54-4e92-9e9a-73a594fa2be2',
+  keyword: 'ans_6d90f80e-039b-4fdc-8f16-79167be2f224',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5cbdc67e21c9050620d9399c8c60544c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F27C0D9774792C31FBD',
+    participant: undefined
+  },
+  messageTimestamp: 1733843089,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'doc', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'doc',
+  from: '5493814064164'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2b405642-2265-4843-98e7-af8e65144ede',
+  keyword: 'key_aa15a963-6aba-4392-824c-0adf686450eb',
+  answer: '📄 Aquí encontras las documentación recuerda que puedes mejorarla\n' +
+    'https://bot-whatsapp.netlify.app/\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a420a97fdd6aa46e59063b9f1f0b628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F73E23EFEEBBDF22E35',
+    participant: undefined
+  },
+  messageTimestamp: 1733843093,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'discord', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'discord',
+  from: '5493814064164'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3FF68A983AAA61BAAE74',
+    participant: undefined
+  },
+  messageTimestamp: 1733843101,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5493814064164'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6d90f80e-039b-4fdc-8f16-79167be2f224',
+  keyword: 'key_1a9b6f36-619f-45cf-b834-819197d82ef9',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f9a63323dbf9ad13faf6964d11eb1cb2'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_53ff0668-0c54-4e92-9e9a-73a594fa2be2',
+  keyword: 'ans_6d90f80e-039b-4fdc-8f16-79167be2f224',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5cbdc67e21c9050620d9399c8c60544c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F57978824292A28C2C0',
+    participant: undefined
+  },
+  messageTimestamp: 1733843106,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'gracia', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'gracia',
+  from: '5493814064164'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_298f8368-8fac-462a-8732-a461cc5eab64',
+  keyword: 'key_459fe6e3-0e92-4eb9-b9e4-6b9ea1fe9913',
+  answer: '🚀 Puedes aportar tu granito de arena a este proyecto\n' +
+    '[*opencollective*] https://opencollective.com/bot-whatsapp\n' +
+    '[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n' +
+    '[*patreon*] https://www.patreon.com/leifermendez\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7f3720d3dfa9aa7476d384e375fcf86b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F77EED69EF589D4FA5A',
+    participant: undefined
+  },
+  messageTimestamp: 1733843109,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5493814064164'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4894e0bb-f677-4c07-804b-da093b1d3b8c',
+  keyword: 'key_6f15f92f-d163-4404-a9d4-05b96aabfae2',
+  answer: '📄 Aquí tenemos el flujo secundario',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e60821742c06517bc192281501d42074'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814064164@s.whatsapp.net',
+    fromMe: false,
+    id: '3F928A9148D77913F779',
+    participant: undefined
+  },
+  messageTimestamp: 1733843117,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'bien', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'bien',
+  from: '5493814064164'
+}
